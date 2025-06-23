@@ -22,4 +22,4 @@ public class ExcelMostruoTests extends BaseTest {
         final var primerMonstruo = listaMonstruo.get(0);
         System.out.printf("El nombre del 1er monstruo es: %s%n", primerMonstruo.getNombre());
     }
-}
+}//corregir final video 80
