@@ -7,8 +7,8 @@ public class Joke {
     private String type;
     @JsonProperty("setup")
     private String setup;
-    @JsonProperty("puchline")
-    private String puchline;
+    @JsonProperty("punchline")
+    private String punchline;
     @JsonProperty("id")
     private int id;
 
@@ -22,10 +22,10 @@ public class Joke {
                 {
                 type: %s
                 setup: %s
-                puchline: %s
+                punchline: %s
                 id: %d
                 }
                 """;
-        return String.format(multilinea, type, setup, puchline, id);
+        return String.format(multilinea, type, setup, punchline, id);
     }
 }

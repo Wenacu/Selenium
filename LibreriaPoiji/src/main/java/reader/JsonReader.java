@@ -29,9 +29,10 @@ public class JsonReader {
         try {
             return objectMapper.readValue(
                     new File(jokesPath),
-                    TypeFactory.defaultInstance().constructType(Joke.class)
+                    TypeFactory.defaultInstance().constructArrayType(Joke.class)
             );
         } catch (IOException ioException) {
+            Logs.error("IOException: %s", ioException.getLocalizedMessage());
             throw new RuntimeException();
         }
     }
