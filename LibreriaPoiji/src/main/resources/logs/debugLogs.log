@@ -1,2 +1,147 @@
-08:25:56.702 INFO  AUTOMATION - Setup del padre
-08:25:56.861 INFO  AUTOMATION - Teardown del padre
+11:18:41.536 INFO  AUTOMATION - Suite iniciada: Surefire suite
+11:18:41.585 INFO  AUTOMATION - Setup del padre
+11:18:41.724 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:41.797 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.127 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.128 INFO  AUTOMATION - Comenzando el test: cuartoTest
+11:18:42.134 INFO  AUTOMATION - Test exitoso: cuartoTest
+11:18:42.136 INFO  AUTOMATION - Teardown del padre
+11:18:42.141 INFO  AUTOMATION - Setup del padre
+11:18:42.150 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.152 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.179 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.180 INFO  AUTOMATION - Comenzando el test: primerTest
+11:18:42.181 INFO  AUTOMATION - Test exitoso: primerTest
+11:18:42.182 INFO  AUTOMATION - Teardown del padre
+11:18:42.196 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.199 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.224 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.227 INFO  AUTOMATION - Setup del padre
+11:18:42.235 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.238 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.261 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.261 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.264 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.265 INFO  AUTOMATION - Teardown del padre
+11:18:42.266 INFO  AUTOMATION - Setup del padre
+11:18:42.273 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.274 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.295 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.296 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.298 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.298 INFO  AUTOMATION - Teardown del padre
+11:18:42.299 INFO  AUTOMATION - Setup del padre
+11:18:42.306 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.309 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.326 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.328 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.328 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.329 INFO  AUTOMATION - Teardown del padre
+11:18:42.330 INFO  AUTOMATION - Setup del padre
+11:18:42.336 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.339 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.357 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.358 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.359 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.360 INFO  AUTOMATION - Teardown del padre
+11:18:42.361 INFO  AUTOMATION - Setup del padre
+11:18:42.369 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.376 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.394 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.395 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.396 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.396 INFO  AUTOMATION - Teardown del padre
+11:18:42.397 INFO  AUTOMATION - Setup del padre
+11:18:42.403 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.406 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.421 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.423 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.424 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.424 INFO  AUTOMATION - Teardown del padre
+11:18:42.425 INFO  AUTOMATION - Setup del padre
+11:18:42.433 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.435 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.455 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.455 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.456 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.457 INFO  AUTOMATION - Teardown del padre
+11:18:42.457 INFO  AUTOMATION - Setup del padre
+11:18:42.462 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.464 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.479 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.481 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.481 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.483 INFO  AUTOMATION - Teardown del padre
+11:18:42.483 INFO  AUTOMATION - Setup del padre
+11:18:42.489 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.491 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.507 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.507 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.508 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.509 INFO  AUTOMATION - Teardown del padre
+11:18:42.509 INFO  AUTOMATION - Setup del padre
+11:18:42.516 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.518 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.533 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.534 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.534 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.535 INFO  AUTOMATION - Teardown del padre
+11:18:42.535 INFO  AUTOMATION - Setup del padre
+11:18:42.542 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.543 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.558 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.558 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.559 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.560 INFO  AUTOMATION - Teardown del padre
+11:18:42.560 INFO  AUTOMATION - Setup del padre
+11:18:42.566 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.567 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.580 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.581 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.582 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.582 INFO  AUTOMATION - Teardown del padre
+11:18:42.583 INFO  AUTOMATION - Setup del padre
+11:18:42.588 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.589 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.608 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.608 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.610 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.610 INFO  AUTOMATION - Teardown del padre
+11:18:42.611 INFO  AUTOMATION - Setup del padre
+11:18:42.616 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.618 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.642 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.642 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.643 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.644 INFO  AUTOMATION - Teardown del padre
+11:18:42.644 INFO  AUTOMATION - Setup del padre
+11:18:42.649 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.651 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.673 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.673 INFO  AUTOMATION - Comenzando el test: segundoTest
+11:18:42.674 INFO  AUTOMATION - Test exitoso: segundoTest
+11:18:42.674 INFO  AUTOMATION - Teardown del padre
+11:18:42.675 INFO  AUTOMATION - Setup del padre
+11:18:42.680 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:18:42.681 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:18:42.695 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:18:42.696 INFO  AUTOMATION - Comenzando el test: tercerTest
+11:18:42.696 INFO  AUTOMATION - Test exitoso: tercerTest
+11:18:42.696 INFO  AUTOMATION - Teardown del padre
+11:18:42.699 INFO  AUTOMATION - Setup del padre
+11:18:42.883 INFO  AUTOMATION - Comenzando el test: cuartoTest
+11:18:42.883 INFO  AUTOMATION - Test exitoso: cuartoTest
+11:18:42.884 INFO  AUTOMATION - Teardown del padre
+11:18:42.884 INFO  AUTOMATION - Setup del padre
+11:18:42.888 INFO  AUTOMATION - Comenzando el test: primerTest
+11:18:42.889 INFO  AUTOMATION - Test exitoso: primerTest
+11:18:42.889 INFO  AUTOMATION - Teardown del padre
+11:18:42.890 INFO  AUTOMATION - Setup del padre
+11:18:42.894 INFO  AUTOMATION - Comenzando el test: segundoTest
+11:18:42.901 INFO  AUTOMATION - Test exitoso: segundoTest
+11:18:42.901 INFO  AUTOMATION - Teardown del padre
+11:18:42.902 INFO  AUTOMATION - Setup del padre
+11:18:42.905 INFO  AUTOMATION - Comenzando el test: tecerTest
+11:18:42.906 INFO  AUTOMATION - Test exitoso: tecerTest
+11:18:42.906 INFO  AUTOMATION - Teardown del padre
+11:18:42.931 INFO  AUTOMATION - Suite finalizada: Surefire suite

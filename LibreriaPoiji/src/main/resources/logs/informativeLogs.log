@@ -1,2 +1,90 @@
-08:25:56.702 INFO  AUTOMATION - Setup del padre
-08:25:56.861 INFO  AUTOMATION - Teardown del padre
+11:18:41.536 INFO  AUTOMATION - Suite iniciada: Surefire suite
+11:18:41.585 INFO  AUTOMATION - Setup del padre
+11:18:42.128 INFO  AUTOMATION - Comenzando el test: cuartoTest
+11:18:42.134 INFO  AUTOMATION - Test exitoso: cuartoTest
+11:18:42.136 INFO  AUTOMATION - Teardown del padre
+11:18:42.141 INFO  AUTOMATION - Setup del padre
+11:18:42.180 INFO  AUTOMATION - Comenzando el test: primerTest
+11:18:42.181 INFO  AUTOMATION - Test exitoso: primerTest
+11:18:42.182 INFO  AUTOMATION - Teardown del padre
+11:18:42.227 INFO  AUTOMATION - Setup del padre
+11:18:42.261 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.264 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.265 INFO  AUTOMATION - Teardown del padre
+11:18:42.266 INFO  AUTOMATION - Setup del padre
+11:18:42.296 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.298 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.298 INFO  AUTOMATION - Teardown del padre
+11:18:42.299 INFO  AUTOMATION - Setup del padre
+11:18:42.328 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.328 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.329 INFO  AUTOMATION - Teardown del padre
+11:18:42.330 INFO  AUTOMATION - Setup del padre
+11:18:42.358 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.359 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.360 INFO  AUTOMATION - Teardown del padre
+11:18:42.361 INFO  AUTOMATION - Setup del padre
+11:18:42.395 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.396 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.396 INFO  AUTOMATION - Teardown del padre
+11:18:42.397 INFO  AUTOMATION - Setup del padre
+11:18:42.423 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.424 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.424 INFO  AUTOMATION - Teardown del padre
+11:18:42.425 INFO  AUTOMATION - Setup del padre
+11:18:42.455 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.456 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.457 INFO  AUTOMATION - Teardown del padre
+11:18:42.457 INFO  AUTOMATION - Setup del padre
+11:18:42.481 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.481 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.483 INFO  AUTOMATION - Teardown del padre
+11:18:42.483 INFO  AUTOMATION - Setup del padre
+11:18:42.507 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.508 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.509 INFO  AUTOMATION - Teardown del padre
+11:18:42.509 INFO  AUTOMATION - Setup del padre
+11:18:42.534 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.534 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.535 INFO  AUTOMATION - Teardown del padre
+11:18:42.535 INFO  AUTOMATION - Setup del padre
+11:18:42.558 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.559 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.560 INFO  AUTOMATION - Teardown del padre
+11:18:42.560 INFO  AUTOMATION - Setup del padre
+11:18:42.581 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.582 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.582 INFO  AUTOMATION - Teardown del padre
+11:18:42.583 INFO  AUTOMATION - Setup del padre
+11:18:42.608 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.610 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.610 INFO  AUTOMATION - Teardown del padre
+11:18:42.611 INFO  AUTOMATION - Setup del padre
+11:18:42.642 INFO  AUTOMATION - Comenzando el test: quintoTest
+11:18:42.643 INFO  AUTOMATION - Test exitoso: quintoTest
+11:18:42.644 INFO  AUTOMATION - Teardown del padre
+11:18:42.644 INFO  AUTOMATION - Setup del padre
+11:18:42.673 INFO  AUTOMATION - Comenzando el test: segundoTest
+11:18:42.674 INFO  AUTOMATION - Test exitoso: segundoTest
+11:18:42.674 INFO  AUTOMATION - Teardown del padre
+11:18:42.675 INFO  AUTOMATION - Setup del padre
+11:18:42.696 INFO  AUTOMATION - Comenzando el test: tercerTest
+11:18:42.696 INFO  AUTOMATION - Test exitoso: tercerTest
+11:18:42.696 INFO  AUTOMATION - Teardown del padre
+11:18:42.699 INFO  AUTOMATION - Setup del padre
+11:18:42.883 INFO  AUTOMATION - Comenzando el test: cuartoTest
+11:18:42.883 INFO  AUTOMATION - Test exitoso: cuartoTest
+11:18:42.884 INFO  AUTOMATION - Teardown del padre
+11:18:42.884 INFO  AUTOMATION - Setup del padre
+11:18:42.888 INFO  AUTOMATION - Comenzando el test: primerTest
+11:18:42.889 INFO  AUTOMATION - Test exitoso: primerTest
+11:18:42.889 INFO  AUTOMATION - Teardown del padre
+11:18:42.890 INFO  AUTOMATION - Setup del padre
+11:18:42.894 INFO  AUTOMATION - Comenzando el test: segundoTest
+11:18:42.901 INFO  AUTOMATION - Test exitoso: segundoTest
+11:18:42.901 INFO  AUTOMATION - Teardown del padre
+11:18:42.902 INFO  AUTOMATION - Setup del padre
+11:18:42.905 INFO  AUTOMATION - Comenzando el test: tecerTest
+11:18:42.906 INFO  AUTOMATION - Test exitoso: tecerTest
+11:18:42.906 INFO  AUTOMATION - Teardown del padre
+11:18:42.931 INFO  AUTOMATION - Suite finalizada: Surefire suite

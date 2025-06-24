@@ -1,5 +1,6 @@
 package principal;
 
+import data.CustomData;
 import modelos.Monstruo;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
@@ -48,6 +49,15 @@ public class ExcelMostruoTests extends BaseTest {
         softAssert.assertEquals(ultimoMonstruo.getTipo(), "PLANTA");
         softAssert.assertEquals(ultimoMonstruo.getNivel(), 36);
 
+        softAssert.assertAll();
+    }
+
+    @Test(dataProvider = CustomData.DP_NAME,
+            dataProviderClass = CustomData.class,
+            groups = {regression})
+    public void quintoTest(Monstruo monstruo) {
+        softAssert.assertTrue(monstruo.getEdad() > 0);
+        softAssert.assertTrue(monstruo.getNivel() < 100);
         softAssert.assertAll();
     }
 }
