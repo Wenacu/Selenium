@@ -1,2 +1,2 @@
-11:48:13.089 ERROR AUTOMATION - Esto es un error
-11:48:13.094 INFO  AUTOMATION - Soy un paso de algo nivel
+08:25:56.702 INFO  AUTOMATION - Setup del padre
+08:25:56.861 INFO  AUTOMATION - Teardown del padre

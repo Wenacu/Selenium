@@ -1,6 +1,7 @@
 package principal;
 
 import modelos.Monstruo;
+import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import reader.ExcelReader;
@@ -11,15 +12,42 @@ import java.util.List;
 public class ExcelMostruoTests extends BaseTest {
     private List<Monstruo> listaMonstruo;
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setUp() {
         listaMonstruo = ExcelReader.obtenerListaMonstruo();
 
     }
 
-    @Test
+    @Test(groups = {regression, smoke})
     public void primerTest() {
         final var primerMonstruo = listaMonstruo.get(0);
-        System.out.printf("El nombre del 1er monstruo es: %s%n", primerMonstruo.getNombre());
+        Assert.assertEquals(primerMonstruo.getNombre(), "TOLOSA",
+                "1ER nombre no hace match");
     }
-}//corregir final video 80
+
+    @Test(groups = {regression, smoke})
+    public void segundoTest() {
+        final var n = listaMonstruo.size();
+        Assert.assertEquals(n, 14, "longitud incorrecta");
+    }
+
+    @Test(groups = {regression})
+    public void tercerTest() {
+        final var tercerMonstruo = listaMonstruo.get(2);
+        Assert.assertEquals(tercerMonstruo.getNivel(),
+                22, "3ER nivel no hace match");
+    }
+
+    @Test(groups = {regression})
+    public void cuartoTest() {
+        final var ultimoMonstruo = listaMonstruo.get(listaMonstruo.size() - 1);
+        softAssert.assertEquals(ultimoMonstruo.getNombre(), "LUCENA");
+        softAssert.assertEquals(ultimoMonstruo.getEdad(), 3);
+        softAssert.assertEquals(ultimoMonstruo.getPeso(), 8.57);
+        softAssert.assertEquals(ultimoMonstruo.getGenero(), "MACHO");
+        softAssert.assertEquals(ultimoMonstruo.getTipo(), "PLANTA");
+        softAssert.assertEquals(ultimoMonstruo.getNivel(), 36);
+
+        softAssert.assertAll();
+    }
+}

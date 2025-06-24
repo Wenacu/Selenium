@@ -18,8 +18,29 @@ public class Monstruo {
     @ExcelCellName("NIVEL")
     private int nivel;
 
+
+    public String getNombre() {
+        return nombre;
+    }
+
     public int getNivel() {
         return nivel;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public double getPeso() {
+        return peso;
+    }
+
+    public String getGenero() {
+        return genero;
+    }
+
+    public String getTipo() {
+        return tipo;
     }
 
     @Override

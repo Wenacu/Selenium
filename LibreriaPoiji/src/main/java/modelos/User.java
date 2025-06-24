@@ -21,6 +21,10 @@ public class User {
     private Company company;
 
 
+    public int getId() {
+        return id;
+    }
+
     public String getName() {
         return name;
     }
@@ -31,5 +35,13 @@ public class User {
 
     public Company getCompany() {
         return company;
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public String getWebsite() {
+        return website;
     }
 }
